@@ -1,0 +1,6 @@
+{
+  "name": "QS-Takeoff Pro",
+  "description": "High-precision manual digital takeoff application for Quantity Surveyors with recipe-based 3D quantities, scale zones, live audit grid, and revision sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
