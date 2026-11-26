@@ -159,6 +159,12 @@ export interface DrawingSheet {
   type: 'vector' | 'raster' | 'uploaded';
   url?: string;
   pdfData?: string | ArrayBuffer;
+  width?: number;
+  height?: number;
+  pageCount?: number;
+  currentPage?: number;
+  rawBuffer?: ArrayBuffer;
+  rawFile?: File;
   scaleZones: ScaleZone[];
   defaultScale: string;
   hasRevisions?: boolean;

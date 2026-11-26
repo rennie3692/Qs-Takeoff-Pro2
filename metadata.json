@@ -1,6 +1,6 @@
 {
   "name": "QS-Takeoff Pro",
-  "description": "High-precision manual digital takeoff application for Quantity Surveyors with recipe-based 3D quantities, scale zones, live audit grid, and revision sync.",
+  "description": "Easy-to-use digital blueprint takeoff and construction cost estimator. Measure rooms, walls, and materials on 2D architectural plans with instant 3D quantities and calculation breakdowns.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
